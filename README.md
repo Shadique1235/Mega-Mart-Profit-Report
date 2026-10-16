@@ -48,6 +48,6 @@ This project demonstrates how Power BI transforms raw business data into interac
 
 ## 7. Screenshort / Demo
 Show what the Report loosk loke. - ![Alt text](https://github.com/username/repo/assests/image.png)
-Example: ![Mega Mart Profit Report]()
+Example: ![Mega Mart Profit Report](https://github.com/Shadique1235/Mega-Mark-Profit-Report/blob/main/Profit%20Report.png)
 
 ⭐ If you find this project useful, consider starring the repository!
