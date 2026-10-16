@@ -47,6 +47,7 @@ This project demonstrates how Power BI transforms raw business data into interac
 **Data Source:** Kaggle
 
 ## 7. Screenshort / Demo
+![Mega Mart Profit Report](images/dashboard.png)
 ![Mega Mart Profit Report]([images/dashboard.png](https://github.com/Shadique1235/Mega-Mark-Profit-Report/blob/main/Profit%20Report.png))
 
 ⭐ If you find this project useful, consider starring the repository!
